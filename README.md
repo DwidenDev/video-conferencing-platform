@@ -1,1 +1,2 @@
-# video-conferencing-platform
+# Zoom
+A full stack video conferencing web application.
